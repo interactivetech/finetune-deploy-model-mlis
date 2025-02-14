@@ -1,1 +1,2 @@
-./opt-125m-synthetic-finetuned
+./opt-125m-synthetic-finetuned/
+.ipynb_checkpoints/
