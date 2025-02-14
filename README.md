@@ -5,8 +5,8 @@
 * Need PCAI environment that has MLIS deployed
 
 # Environment install instructions
-* `pip install vllm`
-* `pip install torchtune torchao bitsandbytes`
+* `pip install vllm datasets`
+* for torchtune, install: `pip install torchtune torchao bitsandbytes`
 
 # Main demo: finetune and deploy llm 
 * create notebook server: 2 vCPU and 20GB of Memory
