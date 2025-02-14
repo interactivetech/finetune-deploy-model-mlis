@@ -16,4 +16,4 @@
 * go back to `ft.ipynb` and run the cell to paste token interactively
 * run cell in `ft.ipynb` to make API request of deployed finetuned model
 
-# ToDo (add instructions to 
+# ToDo (add instructions to setup MLIS deployment)
