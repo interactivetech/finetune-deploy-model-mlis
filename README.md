@@ -5,7 +5,7 @@
 * Need PCAI environment that has MLIS deployed
 
 # Environment install instructions
-* `pip install vllm datasets`
+* `pip install vllm datasets 'accelerate>=0.26.0`
 * for torchtune, install: `pip install torchtune torchao bitsandbytes`
 
 # Main demo: finetune and deploy llm 
